@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Javascript\crypto\" />
+    <Folder Include="qubic-communication\" />
+    <Folder Include="qubic-types\transacion-payloads\" />
+  </ItemGroup>
+
 </Project>
